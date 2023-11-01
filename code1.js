@@ -1,5 +1,5 @@
 function sum(a,b){
-return a * b
+return `The sum of the numbers is ${a+b}`
 }
 console.log(sum(12,32))
 console.log(sum(15,22))
